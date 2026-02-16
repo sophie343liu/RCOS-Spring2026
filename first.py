@@ -1,4 +1,4 @@
 def main():
-	print("Hello Mars!")
+	print("Hello Jupiter!")
 
 main()
